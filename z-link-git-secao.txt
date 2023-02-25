@@ -1,1 +1,0 @@
-https://github.com/luizomf/design-patterns-typescript/blob/master/src/creational/factory-method/README.md
